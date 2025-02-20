@@ -1,0 +1,23 @@
+1 make html file ✅
+2 make boilerplate code 3 understand tag ✅
+4 understand h1-h6 ✅
+5 understand p ✅
+6 understand br ✅
+7 understand img ✅
+8 understand a ✅
+9 understand div✅
+10 understand id✅
+11 understand class✅
+12.understand list tags✅
+13.understand TABLE tags✅
+14.understand Form Tags :> 
+                                 text ✅
+                                 number ✅
+                                 date ✅
+                                 email ✅
+                                 checkbox ✅
+                                 radio ✅
+                                 textarea ✅
+                                 submit ✅
+                                 reset ✅
+                                 select ✅
